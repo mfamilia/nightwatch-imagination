@@ -8,17 +8,17 @@
     "url": "git+ssh://git@github.com:itkoren/nightwatch-imagination.git"
   },
   "keywords": [
-      "nightwatch",
-      "regression",
-      "images",
-      "aplitools"
+    "nightwatch",
+    "regression",
+    "images",
+    "aplitools"
   ],
   "scripts": {
     "lint": "node_modules/.bin/eslint lib"
   },
   "author": {
-      "name": "Itai Koren",
-      "email": "itkoren@gmail.com"
+    "name": "Itai Koren",
+    "email": "itkoren@gmail.com"
   },
   "license": "MIT",
   "dependencies": {
